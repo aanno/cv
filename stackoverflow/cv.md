@@ -69,7 +69,7 @@ Leading edge or bleeding edge?
 * <img src="img/siteos.jpg" width="50" style="vertical-align: middle;"/>&nbsp;Software Architect at [SiteOS](https://www.siteos.de/), Munich<br/>
   Apr 2016 → May 2021 (5 years, 2 months)<br/>
   + Definition of technical stack for development
-  + Technical team lead
+  + Technical team lead of scrum development team (6 members)
   + Find opportunities for technical overhaul without impact on feature development
   + Technical management of a near-shore project in the leasing domain
   + Mentoring the switch from monolithic to cloud-aware microservice driven development
@@ -87,7 +87,7 @@ Leading edge or bleeding edge?
   + Technology: angularjs spring-data-jpa mysql babel gulp liquibase scrum docker
 * <img src="img/nuclos.png" width="50" style="vertical-align: middle;"/>&nbsp;Nuclos Architect at [Novabit Informationssysteme GmbH](https://www.nuclos.de/), Sauerlach<br/>
   Jun 2011 → Apr 2015 (3 years, 11 months)
-  + Nuclos is a open source (agpl-3) ERP point-and-click building stack
+  + Nuclos is a open source (agpl-3) ERP point-and-click low-code building stack
   + Mentoring the switch to fully embrace spring as base technology (spring evangelist)
   + Substantial improve the in-house ORM layer
   + Framework for avoiding swing-related memory-leaks more easily
