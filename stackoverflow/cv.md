@@ -66,7 +66,7 @@ Leading edge or bleeding edge?
 
 ## Experience
 
-* Software Architect at SiteOS, Munich<br/>
+* <img src="img/siteos.jpg" width="50" style="vertical-align: middle;"/>&nbsp;Software Architect at [SiteOS](https://www.siteos.de/), Munich<br/>
   Apr 2016 → May 2021 (5 years, 2 months)<br/>
   + Definition of technical stack for development
   + Technical team lead
@@ -79,13 +79,13 @@ Leading edge or bleeding edge?
   + Technology: maven java typescript angular nexus d3.js nvd3.js reactjs redux docker wildfly
     wildfly-swarm vert.x primeng solr elasticsearch solrcloud jhipster spring-cloud 
     react-redux docker-swarm spring-cloud-netflix gradle ansible spring-data docker-swarm-mode
-* Senior Software Developer at FlixBus, Munich<br/>
+* <img src="img/flixbus_color.png" width="50" style="vertical-align: middle;"/>&nbsp;Senior Software Developer at [FlixBus](https://www.flixbus.de/), Munich<br/>
   Jul 2015 → Mar 2016 (9 months)
   + Technical lead Spring and JPA/Hibernate
   + Full stack development in a Scrum team
   + CI and automatic deployment
   + Technology: angularjs spring-data-jpa mysql babel gulp liquibase scrum docker
-* Nuclos Architect at Novabit Informationssysteme GmbH, Markt Schwaben<br/>
+* <img src="img/nuclos.png" width="50" style="vertical-align: middle;"/>&nbsp;Nuclos Architect at [Novabit Informationssysteme GmbH](https://www.nuclos.de/), Sauerlach<br/>
   Jun 2011 → Apr 2015 (3 years, 11 months)
   + Nuclos is a open source (agpl-3) ERP point-and-click building stack
   + Mentoring the switch to fully embrace spring as base technology (spring evangelist)
@@ -102,35 +102,41 @@ Leading edge or bleeding edge?
 
 ## Education
 
-* Electrical Engineering (Dipl.-Ing.) at RWTH Aachen, Aachen<br/>
+* <img src="img/rwth-aachen.png" width="50" style="vertical-align: middle;"/>&nbsp;Electrical Engineering (Dipl.-Ing.) at [RWTH Aachen](https://www.rwth-aachen.de/), Aachen<br/>
   Oct 1989 → Jul 1995
-  + Specialized on microelectronics
+  + Specialized on microelectronics (VLSI chip design)
 
 ## Certifications
 
-* [ISAQB Certified Professional for Software Architecture, Foundation Level (CPSA-FL)](https://skillshub.isqi.org/95310755-fd07-4fb2-a272-999657b91596?key=8f9849079ca68344b42527e8eab9babdafdc0e4c8d86c602434d1075bfee42e1)<br/>
-  Oct 2021 → Oct 2021 (1 month)
-  + architecture components software-quality dependencies interface api-design
-* [AWS Certified Developer Associate (DVA-C01)](https://www.credly.com/badges/f2866670-adae-4745-9f7e-7db0c97de1c2/public_url)<br/>
-  Aug 2021 → Aug 2021 (1 month)
+* AWS Certified Solution Architect Associate [SAA-C02](https://www.credly.com/badges/24715d18-e837-4348-830e-7b21efc2426a)<br/>
+  March 2021 → March 2025
   + amazon-web-services
-* [Information Service Engineering (openHPI)](https://open.hpi.de/verify/xigap-nogih-tozab-ceboz-barac)<br/>
-  May 2020 → Jun 2020 (2 months)
+* ISAQB Certified Professional for Software Architecture, Foundation Level [CPSA-FL](https://skillshub.isqi.org/95310755-fd07-4fb2-a272-999657b91596?key=8f9849079ca68344b42527e8eab9babdafdc0e4c8d86c602434d1075bfee42e1)<br/>
+  Oct 2021
+  + architecture components software-quality dependencies interface api-design
+* AWS Certified Developer Associate [DVA-C01](https://www.credly.com/badges/f2866670-adae-4745-9f7e-7db0c97de1c2/public_url)<br/>
+  Aug 2021 → Aug 2024
+  + amazon-web-services
+* Information Service Engineering [(openHPI cert)](https://open.hpi.de/verify/xigap-nogih-tozab-ceboz-barac)<br/>
+  Jun 2020
   + nlp semantic-web knowledge-management
-* [IT-Recht für Software-Entwickler (openHPI)](https://open.hpi.de/verify/xizoc-denin-ruvoh-rilib-lihod)<br/>
-  Apr 2018 → Apr 2018 (1 month)
+* IT-Recht für Software-Entwickler [(openHPI cert)](https://open.hpi.de/verify/xizoc-denin-ruvoh-rilib-lihod)<br/>
+  Apr 2018
   + lawyer
-* [Big Data Analysis with Scala and Spark (coursera)](https://coursera.org/share/82bf7b0666ddff07b1dc481084a0704b)<br/>
-  Apr 2018 → Apr 2018 (1 month)
+* Big Data Analysis with Scala and Spark [(coursera cert)](https://coursera.org/share/82bf7b0666ddff07b1dc481084a0704b)<br/>
+  Apr 2018
   + scala apache-spark
-* [Functional Programming in Scala Capstone (coursera)](https://coursera.org/share/72d3bdff0b1fe72a437b2028680b7617)<br/>
-  Apr 2018 → Apr 2018 (1 month)
+* Functional Programming in Scala Capstone [(coursera cert)](https://coursera.org/share/72d3bdff0b1fe72a437b2028680b7617)<br/>
+  Apr 2018
   + scala apache-spark
-* [Big Data Analytics (openHPI)](https://open.hpi.de/verify/xosek-bobin-gezal-zufam-buron)<br/>
-  Nov 2017 → Dec 2017 (2 months)
+* Big Data Analytics [(openHPI cert)](https://open.hpi.de/verify/xosek-bobin-gezal-zufam-buron)<br/>
+  Dec 2017
   + algorithm bigdata
-* [Sun Certified Enterprise Architect (SCEA)]()<br/>
-  Nov 2002 → Dec 2002 (2 months)
+
+### Former Certifications
+
+* Sun Certified Enterprise Architect (SCEA)<br/>
+  Dec 2002 → Dec 2004
   + java java-ee-5 application-server
 
 ## Upskilling
