@@ -5,8 +5,8 @@
 * github.com/aanno
 * Looking for a job!<br/>
   Currently, I'm are _interested_ in new positions.
-* After >20 years of development, I have been working as CIT manager the last 2 year.
-* Sorry, only interested in technology management.
+* After >20 years of development, I have been working as CIT manager for the last 2 year.
+* Sorry, only interested in technology _management_.
 
 ## Today's toolbox
 
@@ -76,7 +76,7 @@ Leading edge or bleeding edge?
 
 ## Experience
 
-* <img src="img/vkb_logo.svg" width="50" style="vertical-align: middle;"/>&nbsp;IT Product Owner at [VKBit](https://www.vkb.de/), Munich<br/>
+* <img src="img/vkb_logo.svg" width="50" style="vertical-align: middle;"/>&nbsp;**IT Product Owner** at [VKBit](https://www.vkb.de/), Munich<br/>
   Dec 2021 → to-date (1 years, 9 months)<br/>
   + Responsibility for the 2 IT products (apps) _Sara_ and _Servicepool_ in the property and casualty insurence area.
   + Implementation of the customer requirements taking the IT strategy into account 
@@ -87,7 +87,7 @@ Leading edge or bleeding edge?
   + Regular dialogue with customers, suppliers and clients from business and IT.
   + Agreement and reporting of OLAs
   + Support the Agile IT transformation of the VKB group
-* <img src="img/siteos.jpg" width="50" style="vertical-align: middle;"/>&nbsp;Software Architect at [SiteOS](https://www.siteos.de/), Munich<br/>
+* <img src="img/siteos.jpg" width="50" style="vertical-align: middle;"/>&nbsp;**Software Architect** at [SiteOS](https://www.siteos.de/), Munich<br/>
   Apr 2016 → May 2021 (5 years, 2 months)<br/>
   + Definition of technical stack for development
   + Technical team lead of scrum development team (6 members)
@@ -100,13 +100,13 @@ Leading edge or bleeding edge?
   + Technology: maven java typescript angular nexus d3.js nvd3.js reactjs redux docker wildfly
     wildfly-swarm vert.x primeng solr elasticsearch solrcloud jhipster spring-cloud 
     react-redux docker-swarm spring-cloud-netflix gradle ansible spring-data docker-swarm-mode
-* <img src="img/flixbus_color.png" width="50" style="vertical-align: middle;"/>&nbsp;Senior Software Developer at [FlixBus](https://www.flixbus.de/), Munich<br/>
+* <img src="img/flixbus_color.png" width="50" style="vertical-align: middle;"/>&nbsp;**Senior Software Developer** at [FlixBus](https://www.flixbus.de/), Munich<br/>
   Jul 2015 → Mar 2016 (9 months)
   + Technical lead Spring and JPA/Hibernate
   + Full stack development in a Scrum team
   + CI and automatic deployment
   + Technology: angularjs spring-data-jpa mysql babel gulp liquibase scrum docker
-* <img src="img/nuclos.png" width="50" style="vertical-align: middle;"/>&nbsp;Nuclos Architect at [Novabit Informationssysteme GmbH](https://www.nuclos.de/), Sauerlach<br/>
+* <img src="img/nuclos.png" width="50" style="vertical-align: middle;"/>&nbsp;**Nuclos Architect** at [Novabit Informationssysteme GmbH](https://www.nuclos.de/), Sauerlach<br/>
   Jun 2011 → Apr 2015 (3 years, 11 months)
   + Nuclos is a open source (agpl-3) ERP point-and-click low-code building stack
   + Mentoring the switch to fully embrace spring as base technology (spring evangelist)
@@ -115,7 +115,7 @@ Leading edge or bleeding edge?
   + Adapt java-web-start to more restrict security constraints
   + Technical consulting for clients (i.e. companies that are using nuclos for their business processes)
   + Technology: java spring maven java-web-start swing swingx orm memory-profiling open-source
-* Software Architect and Developer at misc<br/>
+* **Software Architect and Developer** at misc<br/>
   Jan 2001 → May 2011 (10 years, 5 months)
   + Working in software development since 01/2001
   + Diverse companies and positions
