@@ -1,14 +1,24 @@
 # CV aanno
 
-* Software Architect and Team Lead
+* Team Lead and CIT Architect
 * Munich, Germany
 * github.com/aanno
-* Not Looking for a job<br/>
-  Currently, I'm are _not_ interested in new positions.
+* Looking for a job!<br/>
+  Currently, I'm are _interested_ in new positions.
+* After >20 years of development, I have been working as CIT manager the last 2 year.
+* Sorry, only interested in technology management.
 
-## Technologies
+## Today's toolbox
 
-### Preferred technologies
+* Project management and control
+* Team Leadership
+* Basic insurance compliance knowledge: VAIT, BSI C5, KRITIS
+* Knowledge to keep CIT in line with regulations
+* Basic IT governance knowledge: ITIL, CMDB, service pyramid, SLAs and OLAs, risk analysis, business processes
+
+## Former Tech Stacks
+
+### (Former) preferred technologies
 
 * java
 * spring
@@ -66,6 +76,17 @@ Leading edge or bleeding edge?
 
 ## Experience
 
+* <img src="img/vkb_logo.svg" width="50" style="vertical-align: middle;"/>&nbsp;IT Product Owner at [VKBit](https://www.vkb.de/), Munich<br/>
+  Dec 2021 → to-date (1 years, 9 months)<br/>
+  + Responsibility for the 2 IT products (apps) _Sara_ and _Servicepool_ in the property and casualty insurence area.
+  + Implementation of the customer requirements taking the IT strategy into account 
+  + Planning and control of service delivery (including budget/cost and quantity control and reporting)
+  + Prioritisation of the Scrum Backlog
+  + Technical guidance of the teams of BAs (3 members) and developers (5 members)
+  + Responsibility for ongoing development and operation
+  + Regular dialogue with customers, suppliers and clients from business and IT.
+  + Agreement and reporting of OLAs
+  + Support the Agile IT transformation of the VKB group
 * <img src="img/siteos.jpg" width="50" style="vertical-align: middle;"/>&nbsp;Software Architect at [SiteOS](https://www.siteos.de/), Munich<br/>
   Apr 2016 → May 2021 (5 years, 2 months)<br/>
   + Definition of technical stack for development
@@ -177,9 +198,22 @@ Community Name, Reputation
 * [Ask Ubuntu](https://askubuntu.com/users/85935/), 329
 * [Meta Stack Exchange](https://meta.stackexchange.com/users/486366/), 101
 * [Super User](https://superuser.com/users/284707/), 101
-* [Unix & Linux](https://unix.stackexchange.com/users/403992/), 89
+* [Unix & Linux](https://unix.stackexchange.com/users/403992/), 109
 
 ## Readings
+
+* Modernes Projektmanagement (German)<br/>
+  Holger Timinger
+  + Brief but sufficient overview about traditional and agile project management. Great when it comes to mixing both...
+* Functional Programming in Kotlin<br/>
+  Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano
+  + FP explained on kotlin, it is also _very_ interesting to compare it the scala version (Functional Programming in Scala, Second Edition)
+* AI as a Service<br/>
+  Peter Elger, Eóin Shanaghy 
+  + Deploy real-world AI models in production with minimal effort thanks to modern public cloud infrastructure
+
+
+### Former Readings
 
 * Mastering Akka<br/>
   Christian Baxter
@@ -196,6 +230,3 @@ Community Name, Reputation
 * Mastering Ansible<br/>
   Jesse Keating
   + Good introduction into using ansible as DevOpt tool. I read the second edition (but the new third editions seems to be even better). However, it does not cover extending ansible as it is rather a book for beginners.
-* Modernes Projektmanagement (German)<br/>
-  Holger Timinger
-  + Brief but sufficient overview about traditional and agile project management. Great when it comes to mixing both...
