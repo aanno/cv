@@ -171,20 +171,6 @@ Leading edge or bleeding edge?
   + Attending one day course of Arne Limberg from openknowledge.de
   + jpa-2.1 jpa
 
-## Apps & Software
-
-* First microservices of 're' project in production<br/>
-  Nov 2019
-  + Business case of 're' project is covered by an excessive NDA. Hence only technical details are available
-  + Technology: docker-swarm private-cloud spring-data-jpa jhipster solr spring-cloud-netflix angular keycloak oauth-2.0 openid-connect
-* [Wroomer](https://wroomer.com/ux/)<br/>
-  Jun 2018
-  + Relaunch of wroomer.com with improved UX based on react, redux (alt), and written in typescript
-  + Technology: reactjs typescript babel rest rabbitmq xtext redux
-* Eclipse Plugin for Nuclos Rules<br/>
-  Jun 2013
-  + Technology: eclipse-plugin
-
 ## Tools
 
 * First computer: TI/99-4A
@@ -207,7 +193,7 @@ Community Name, Reputation
   + Brief but sufficient overview about traditional and agile project management. Great when it comes to mixing both...
 * Functional Programming in Kotlin<br/>
   Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano
-  + FP explained on kotlin, it is also _very_ interesting to compare it the scala version (Functional Programming in Scala, Second Edition)
+  + FP explained on kotlin, it is also _very_ interesting to compare it to the scala version of the book (Functional Programming in Scala, Second Edition)
 * AI as a Service<br/>
   Peter Elger, Eóin Shanaghy 
   + Deploy real-world AI models in production with minimal effort thanks to modern public cloud infrastructure
