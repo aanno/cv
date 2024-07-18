@@ -5,8 +5,8 @@
 * github.com/aanno
 * Looking for a job!<br/>
   Currently, I'm are _interested_ in new positions.
-* After >20 years of development, I have been working as CIT manager for the last 2 year.
-* Sorry, only interested in technology _management_.
+* After >20 years of development, I have been working as CIT manager for the last 2.5 year.
+* Sorry, only interested in technology _management_ (including IT architecture).
 
 ## Today's toolbox
 
@@ -15,6 +15,8 @@
 * Basic insurance compliance knowledge: VAIT, BSI C5, KRITIS
 * Knowledge to keep CIT in line with regulations
 * Basic IT governance knowledge: ITIL, CMDB, service pyramid, SLAs and OLAs, risk analysis, business processes
+* Interested in IT architecture (system, hybrid cloud and enterprise level)
+* Interested in AI, BI, and modern workspaces for IT developers (cloud IDE, dev AI support, GitOps)
 
 ## Former Tech Stacks
 
@@ -26,8 +28,8 @@
 * scala
 * apache-spark
 * node.js
-* angular
-* reactjs
+* react (1st choice)
+* angular (2nd choice)
 * redux
 * reactive-programming
 * agile
@@ -37,7 +39,7 @@
 * kotlin
 * requirements
 * bigdata
-* cloud
+* cloud (AWS, kubernetes, openshift)
 * kubernetes
 * docker
 * sonarqube
@@ -77,9 +79,9 @@ Leading edge or bleeding edge?
 ## Experience
 
 * <img src="img/vkb_logo.svg" width="50" style="vertical-align: middle;"/>&nbsp;**IT Product Owner** at [VKBit](https://www.vkb.de/), Munich<br/>
-  Dec 2021 → to-date (1 years, 9 months)<br/>
+  Dec 2021 → June 2024 (2 years, 7 months)<br/>
   + Responsibility for the 2 IT products (apps) _Sara_ and _Servicepool_ in the property and casualty insurence area.
-  + Implementation of the customer requirements taking the IT strategy into account 
+  + Implementation of the customer requirements taking the IT strategy into account
   + Planning and control of service delivery (including budget/cost and quantity control and reporting)
   + Prioritisation of the Scrum Backlog
   + Technical guidance of the teams of BAs (3 members) and developers (5 members)
@@ -98,7 +100,7 @@ Leading edge or bleeding edge?
   + Full Stack Development of complex multi-tier applications
   + Graph visualisation in d3 embedded in an angular 5 app
   + Technology: maven java typescript angular nexus d3.js nvd3.js reactjs redux docker wildfly
-    wildfly-swarm vert.x primeng solr elasticsearch solrcloud jhipster spring-cloud 
+    wildfly-swarm vert.x primeng solr elasticsearch solrcloud jhipster spring-cloud
     react-redux docker-swarm spring-cloud-netflix gradle ansible spring-data docker-swarm-mode
 * <img src="img/flixbus_color.png" width="50" style="vertical-align: middle;"/>&nbsp;**Senior Software Developer** at [FlixBus](https://www.flixbus.de/), Munich<br/>
   Jul 2015 → Mar 2016 (9 months)
@@ -174,17 +176,17 @@ Leading edge or bleeding edge?
 ## Tools
 
 * First computer: TI/99-4A
-* Favorite editor: IDEA, vscode
+* Favorite editor: IDEA, vs code
 
 ## Stack Exchange
 
 Community Name, Reputation
 
-* [Stack Overflow](https://stackoverflow.com/users/1201611/), 608
+* [Stack Overflow](https://stackoverflow.com/users/1201611/), 668
 * [Ask Ubuntu](https://askubuntu.com/users/85935/), 329
 * [Meta Stack Exchange](https://meta.stackexchange.com/users/486366/), 101
 * [Super User](https://superuser.com/users/284707/), 101
-* [Unix & Linux](https://unix.stackexchange.com/users/403992/), 109
+* [Unix & Linux](https://unix.stackexchange.com/users/403992/), 129
 
 ## Readings
 
@@ -195,7 +197,7 @@ Community Name, Reputation
   Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano
   + FP explained on kotlin, it is also _very_ interesting to compare it to the scala version of the book (Functional Programming in Scala, Second Edition)
 * AI as a Service<br/>
-  Peter Elger, Eóin Shanaghy 
+  Peter Elger, Eóin Shanaghy
   + Deploy real-world AI models in production with minimal effort thanks to modern public cloud infrastructure
 
 
