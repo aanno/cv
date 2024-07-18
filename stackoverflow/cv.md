@@ -211,7 +211,7 @@ Community Name, Reputation
   + This is THE book you want to read as absolute beginner.
 * Deep Learning and the Game of Go<br/>
   Max Pumperla and Kevin Ferguson
-  + Great book with you really want to understand the technology behind AlphaGo and AlphaGoZero.
+  + Great book if you really want to understand the technology behind AlphaGo and AlphaGoZero.
 * Deep Reinforcement Learning Hands-On<br/>
   Maxim Lapan
   + A great, intermediate-level book that give you up-to-date details about implementing Reinforcement Learning with PyTorch. Also covers the maths behind learning very well.
