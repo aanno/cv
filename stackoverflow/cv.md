@@ -78,6 +78,14 @@ Leading edge or bleeding edge?
 
 ## Experience
 
+* <img src="img/ais.svg" width="50" style="vertical-align: middle;"/>&nbsp;**Software Architect** at [adesso insurance solutions GmbH](https://www.adesso-insure.de/), Munich<br/>
+  Oct 2024 → April 2025 (6 months)<br/>
+  + Customer project setting (professional services division)
+  + Delivery of a complete composite SaaS solution
+  + Familiarisation with the in|sure product family of standard software for the insurance domain
+  + Development of test concepts for SaaS E2E tests (REST based)
+  + Context: Standard software for insurance companies, development of a SaaS solution based
+on this software
 * <img src="img/vkb_logo.svg" width="50" style="vertical-align: middle;"/>&nbsp;**IT Product Owner** at [VKBit](https://www.vkb.de/), Munich<br/>
   Dec 2021 → June 2024 (2 years, 7 months)<br/>
   + Responsibility for the 2 IT products (apps) _Sara_ and _Servicepool_ in the property and casualty insurence area.
@@ -131,15 +139,9 @@ Leading edge or bleeding edge?
 
 ## Certifications
 
-* AWS Certified Solution Architect Associate [SAA-C02](https://www.credly.com/badges/24715d18-e837-4348-830e-7b21efc2426a)<br/>
-  March 2021 → March 2025
-  + amazon-web-services
 * ISAQB Certified Professional for Software Architecture, Foundation Level [CPSA-FL](https://skillshub.isqi.org/95310755-fd07-4fb2-a272-999657b91596?key=8f9849079ca68344b42527e8eab9babdafdc0e4c8d86c602434d1075bfee42e1)<br/>
   Oct 2021
   + architecture components software-quality dependencies interface api-design
-* AWS Certified Developer Associate [DVA-C01](https://www.credly.com/badges/f2866670-adae-4745-9f7e-7db0c97de1c2/public_url)<br/>
-  Aug 2021 → Aug 2024
-  + amazon-web-services
 * Information Service Engineering [(openHPI cert)](https://open.hpi.de/verify/xigap-nogih-tozab-ceboz-barac)<br/>
   Jun 2020
   + nlp semantic-web knowledge-management
@@ -158,6 +160,12 @@ Leading edge or bleeding edge?
 
 ### Former Certifications
 
+* AWS Certified Solution Architect Associate [SAA-C02](https://www.credly.com/badges/24715d18-e837-4348-830e-7b21efc2426a)<br/>
+  March 2021 → March 2025
+  + amazon-web-services
+* AWS Certified Developer Associate [DVA-C01](https://www.credly.com/badges/f2866670-adae-4745-9f7e-7db0c97de1c2/public_url)<br/>
+  Aug 2021 → Aug 2024
+  + amazon-web-services
 * Sun Certified Enterprise Architect (SCEA)<br/>
   Dec 2002 → Dec 2004
   + java java-ee-5 application-server
