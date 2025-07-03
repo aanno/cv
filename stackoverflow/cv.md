@@ -5,8 +5,8 @@
 * github.com/aanno
 * Looking for a job!<br/>
   Currently, I'm are _interested_ in new positions.
-* After >20 years of development, I have been working as CIT manager for the last 2.5 year.
-* Sorry, only interested in technology _management_ (including IT architecture).
+* After >20 years of development, I have been working as _CIT manager_ for more than 6 years now.
+* Sorry, only interested in technology _management_ (including IT _architecture_).
 
 ## Today's toolbox
 
