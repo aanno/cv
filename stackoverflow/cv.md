@@ -139,6 +139,10 @@ on this software
 
 ## Certifications
 
+* Time Series Analysis [(openHPI cert)](https://open.hpi.de/verify/xizet-dymuc-myhid-kocyk-gapil)<br/>
+  Sept 2024
+  + fundamentals of time series data
+  + forecasting methods (statistical, ML and AI)
 * ISAQB Certified Professional for Software Architecture, Foundation Level [CPSA-FL](https://skillshub.isqi.org/95310755-fd07-4fb2-a272-999657b91596?key=8f9849079ca68344b42527e8eab9babdafdc0e4c8d86c602434d1075bfee42e1)<br/>
   Oct 2021
   + architecture components software-quality dependencies interface api-design
