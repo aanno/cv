@@ -78,6 +78,22 @@ Leading edge or bleeding edge?
 
 ## Experience
 
+* <img src="img/progressive.svg" width="50" style="vertical-align: middle;"/>&nbsp;**IT Specialist** at [SThree GmbH](https://www.sthree.com/), Frankfurt<br/>
+  Nov 2025 → now<br/>
+  + Customer project setting (progressive division), ANÜ (contract for services)
+  + Individual assignments/projects – see below
+* <img src="img/itnrw_logo.png" width="50" style="vertical-align: middle;"/>&nbsp;**Java Software Architect** at [IT.NRW](https://www.it.nrw/statistik), Düsseldorf<br/>
+  Nov 2025 → Dec 2026 (13 months)<br/>
+  + Architecture refactoring and optimisation
+  + API design and integration with peripheral systems
+  + Mentoring the development team
+  + Introduction of state-of-the-art development methods
+    (AI-supported in DevContainer)
+  + Preparation for system operation: concepts and implementation of monitoring,
+    metrics, distributed tracing and logging
+  + Introduction of methods for structured performance analysis and improvement
+  + Compliance with architecture and development guidelines
+  + Context: New software development in the field of official statistics, validation and plausibility checking of reported data
 * <img src="img/ais.svg" width="50" style="vertical-align: middle;"/>&nbsp;**Software Architect** at [adesso insurance solutions GmbH](https://www.adesso-insure.de/), Munich<br/>
   Oct 2024 → April 2025 (6 months)<br/>
   + Customer project setting (professional services division)
